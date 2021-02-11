@@ -1,5 +1,7 @@
 # SDK PHP PARA API PIX GERENCIANET
 
+## :warning: Este repositório foi descontinuado e será removido no dia 10/03/2021. Para ter acesso ao repositório atualizado [clique aqui](https://github.com/gerencianet/gn-api-sdk-php).
+
 Este repositório foi desenvolvido pela Consultoria Técnica Gerencianet e tem o objetivo de facilitar a integração com os serviços oferecidos no contexto do arranjo Pix, como criação de cobrança, verificação de Pix recebidos e devolução, bem como o entendimento do qrcode, que deve ser construído seguindo a especificação do [BrCode](https://www.bcb.gov.br/content/estabilidadefinanceira/spb_docs/ManualBRCode.pdf).
 
 ## Requisitos
